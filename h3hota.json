@@ -1,12 +1,12 @@
-"hota":
+"hota20":
 	{
-		"author" : "Hota Crew, ported by VCMI Team & edeksumo & avatar",
+		"author" : "AAA Hota Crew, ported by VCMI Team & edeksumo & avatar",
 		"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 		"description" : "Work-in-progress port of Horn of the Abyss expansion for made by Hota Crew",
 		"licenseName" : "Creative Commons Attribution-ShareAlike",
 		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 		"modType" : "Expansion",
-		"name" : "Horn of the Abyss",
+		"name" : "2Horn of the Abyss",
 		"version" : "1.4.4",
 		"changelog" :
 		{
